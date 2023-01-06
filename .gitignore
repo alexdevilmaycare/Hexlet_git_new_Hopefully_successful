@@ -1,0 +1,2 @@
+#ignore all txt files with the doc directory at all levels of nesting
+/doc/**/*.txt
